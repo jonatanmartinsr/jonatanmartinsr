@@ -1,6 +1,6 @@
 ### Hello World
 
-# Jhon Ribeiro
+# Jonatan Martins
 olá, Eu sou Jonatan Martins e estou iniciando na programação, aprendendo Git, GitHub e Python.
 
 ## Conecte-se comigo
